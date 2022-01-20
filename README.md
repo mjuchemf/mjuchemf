@@ -1,6 +1,6 @@
 <h2>BEM VINDO AO MEU PERFIL GITHUB.</h2>
 
-Se quiser entrar em contato comigo pode mandar um email para marlon@v4company.com
+Se quiser entrar em contato comigo, mande um email para marlon@v4company.com
 
 
 <div style="display: inline_block"><br>  
